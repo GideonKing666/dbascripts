@@ -5,3 +5,6 @@ providing more information and detail.
 
 This is the third version.
 This folder contains a number of diangstic scripts to be run against SQL Server.
+
+
+One more edit for GitHub
